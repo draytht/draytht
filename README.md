@@ -6,7 +6,7 @@
           SHMMMMMMMMMMMS         OS: Arch Linux x86_64
        MMMMMMMMMMMMMMMMMMMM      Host: Metro State University
      MMMMMMMMMMMMMMMMMMMMMMMM    Focus: MSCS Thesis
-    MMMMMM   MMMMMMMM   MMMMMM   Shell: Zsh + Hyprland
+    MMMMMM   MMMMMMMM   MMMMMM   Shell: Bash + Zsh + kitty + fish 
     MMMMMM   MMMMMMMM   MMMMMM   Based: 🇻🇳 -> 🇺🇸
     MMMMMMMMMMMMMMMMMMMMMMMMMM   Status: Ricing my dots...
     MMMMMMMM  MMMMMMMM  MMMMMM   
