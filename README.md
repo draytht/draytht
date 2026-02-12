@@ -1,16 +1,26 @@
-## Hi there 👋
+# Thanh (Drayy) Tran
+## MSCS @ Metropolitan State University 🎓
 
-<!--
-**draytht/draytht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+                                 
+          SHMMMMMMMMMMMS         OS: Arch Linux x86_64
+       MMMMMMMMMMMMMMMMMMMM      Host: Metro State University
+     MMMMMMMMMMMMMMMMMMMMMMMM    Focus: MSCS Thesis
+    MMMMMM   MMMMMMMM   MMMMMM   Shell: Zsh + Hyprland
+    MMMMMM   MMMMMMMM   MMMMMM   Based: 🇻🇳 -> 🇺🇸
+    MMMMMMMMMMMMMMMMMMMMMMMMMM   Status: Ricing my dots...
+    MMMMMMMM  MMMMMMMM  MMMMMM   
+     MMMMMMM  MMMMMMMM  MMMMM    "I use Arch btw."
+      MMMMMMMMMMMMMMMMMMMMMM     
+        MMMMMMMMMMMMMMMMMM       
+           MMMMMMMMMMMM
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔭 Thesis: Deep diving into MSCS research.
+
+🌱 Ricing: Currently perfecting my Hyprland dots.
+
+💬 Ask me about: arch, hyprland, full-stack, devOps.
+
+⚡ Fun Fact: I spend more time ricing my system than actually using it.
