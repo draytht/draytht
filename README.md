@@ -27,7 +27,6 @@
 
 
 
-<img width="338" height="111" alt="image" src="https://github.com/user-attachments/assets/0330f9b5-1ed1-47f4-81d4-8e02ef7967cc" />
 
 
 
