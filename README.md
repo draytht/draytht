@@ -49,7 +49,7 @@
 
 
 
-🔭 Thesis: Deep diving into MSCS research.
+🔭 Thesis: Working on ML with UCI(2009) dataset with diabetes
 
 🌱 Ricing: Currently perfecting my Hyprland dots.
 
