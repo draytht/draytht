@@ -35,9 +35,9 @@
 
 ```text
                                  
-          SHMMMMMMMMMMMS         OS: Arch Linux x86_64
+          SHMMMMMMMMMMMS         OS: Omarchy
        MMMMMMMMMMMMMMMMMMMM      Host: Metro State University
-     MMMMMMMMMMMMMMMMMMMMMMMM    Focus: MSCS Thesis
+     MMMMMMMMMMMMMMMMMMMMMMMM    Focus: MSCS Thesis(readadmission for diabetes patient on UCI dataset) + Nocarry
     MMMMMM   MMMMMMMM   MMMMMM   Shell: Bash + Zsh + kitty + fish 
     MMMMMM   MMMMMMMM   MMMMMM   Based: 🇻🇳 -> 🇺🇸
     MMMMMMMMMMMMMMMMMMMMMMMMMM   Status: Ricing my dots...
